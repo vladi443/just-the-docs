@@ -6,7 +6,7 @@ parent: Projects
 
 # Wordle Bot 
 
-### *A C++ Wordle Solving Algorithm*
+### *C++ Wordle Solving Algorithm*
 
 ---
 
