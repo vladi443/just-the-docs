@@ -21,3 +21,7 @@ Wordle Bot also has a BETA option to compute the best starting word. This functi
 Wordle Bot provides a debug-mode that allows the user to track a certain word’s score throughout the algorithm, allowing for any scoring bugs/misputs to be traced. Debug-mode can be enabled at the beginning of the program.
 
 Wordle Bot is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
+
+[Wordle Bot on Github](http://example.com/){: .btn .btn-blue }
+[NYTimes Wordle Game](http://example.com/){: .btn }
+
