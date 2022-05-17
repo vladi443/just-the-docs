@@ -8,7 +8,7 @@ permalink: /
 
 # Ziggurat Systems
 
-*zig·gu·rat | \ ˈzi-gə-ˌrat  \ an ancient Mesopotamian temple tower consisting of a lofty pyramidal structure built in successive stages with outside staircases and a shrine at the top*
+*zig·gu·rat \ ˈzi-gə-ˌrat  \ - an ancient Mesopotamian temple tower consisting of a lofty pyramidal structure built in successive stages with outside staircases and a shrine at the top*
 
 ---
 
