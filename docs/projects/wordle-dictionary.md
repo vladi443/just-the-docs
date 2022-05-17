@@ -6,9 +6,9 @@ parent: Projects
 
 # Wordle Bot 
 
----
+### *A C++ Wordle Solving Algorithm*
 
-### A C++ Wordle Solving Algorithm
+---
 
 Wordle Bot is a C++ algorithm that scores words based on their match probability for the popular web game Wordle. Wordle Bot recieves a 5-letter input word followed by a 5-digit input number that indicates if the specific charachter is present in the mystery word. After scoring each word Wordle Bot displayes the top 20 words that match the given pattern. The user can choose one of these words and input it again, followed by a new 5-digit number to represent the pattern of the newly entered word.
 
