@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ziggurat Systems
 description: A Github pages site for my projects
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/ziggurat" # the subpath of your site, e.g. /blog
 url: "https://vladi443.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
