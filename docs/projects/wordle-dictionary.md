@@ -22,6 +22,6 @@ Wordle Bot provides a debug-mode that allows the user to track a certain word’
 
 Wordle Bot is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
 
-[Wordle Bot on Github](http://example.com/){: .btn .btn-blue }
-[NYTimes Wordle Game](http://example.com/){: .btn }
+[Wordle Bot on Github](https://github.com/vladi443/wordle-dictionary-solver/blob/main/README.md){: .btn .btn-blue .mr-2}
+[NYTimes Wordle Game](https://www.nytimes.com/games/wordle/index.html){: .btn }
 
