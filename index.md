@@ -12,4 +12,10 @@ permalink: /
 
 ---
 
-Welcome to the Ziggurat Systems Project main page. Ziggurat Systems is a github repository made to organize and list the open-source projects I am currently working on. Feel free to use, modify, or share any of the code that is uploaded here. All the projects will be registered under the GNU GPLv3 software license. For more information, go to the ziggurat github repository’s README file.
+Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently working on and contribute, share, or use any of them for free. Projects list can be found in the *Projects* tab on the left, and additional information about me and this site can be found in the *About* tab on the left.
+
+Projects tab includes list of programs that are currently in development. Each projects’ page includes information about the program, description of its function and instructions on using the program. For additional information about a specific project, refer to the projects’ README file located in its Github Repository.
+
+I am to turn this site into a web portal that would link projects I am working on so I can easily share them with anyone that’s interested in them. If you want to contribute to any of the projects listed here please submit a pull request with the changes from the selected projects’ Github Repository. If you encounter any bugs or glitches from any of the projects, you can submit a bug report on the projects’ Github Repository. Please include more information of the bug encountered to allow for better troubleshooting.
+
+Every project uploaded under the Ziggurat Systems Github Repository is licensed under GNU GPLv3, for which you can read more about in the projects’ README files.
