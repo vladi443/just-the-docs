@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wordle Bot
+nav_order: 1
 parent: Projects
 ---
 
