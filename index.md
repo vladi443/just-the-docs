@@ -12,7 +12,7 @@ permalink: /
 
 ---
 
-Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab on the left, and additional information about me and this site can be found in the *About* tab also located on the left.
+Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab on the left, and compiling information can be also found in the *Compile Code* tab located on the left. If you would like to contribute to any of the projects' listed here but are not sure how, *Contribute / Report Bug* tab contains information on how that can be done. Additional information about me and this site can be found in the *About* tab located on the left as well. 
 
 Projects’ tab includes list of programs that are currently in development. Each projects’ page includes information about the program, functioning process and usage instructions For additional information about a specific project, refer to the projects’ README file located in its Github Repository.
 
