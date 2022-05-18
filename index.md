@@ -12,9 +12,13 @@ permalink: /
 
 ---
 
-Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab on the left, and compiling information can be also found in the *Compile Code* tab located on the left. If you would like to contribute to any of the projects' listed here but are not sure how, *Contribute / Report Bug* tab contains information on how that can be done. Additional information about me and this site can be found in the *About* tab located on the left as well. 
+Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab on the left, and compiling information can be found in the *Compile Code* tab also located on the left.
 
 Projects’ tab includes list of programs that are currently in development. Each projects’ page includes information about the program, functioning process and usage instructions For additional information about a specific project, refer to the projects’ README file located in its Github Repository.
+
+If you would like to contribute to any of the projects or submit a feedback/report a bug you can do so through the project's Github Repository. The *Contribute / Bug Report* tab includes more information on how to submit a pull request in Github.
+
+The projects uploaded here can be downloaded and used as executable programs. This allows for easy use of the programs without worrying about compiling them first. If you would want to compile the programs for yourself, the source code of each projects together with their assets can be found in the project's Github Repository. If you are not sure how to compile some of the code, you can find more information on how to do so in the *Compile Code* tab on the left.
 
 I aim to turn this site into a web portal that would link my projects and make them easy to share and use. If you want to contribute to any of the projects listed here please submit a pull request from the selected project’s Github Repository with the changes you have made. If you encounter any bugs or glitches from any of the projects, you can submit a bug report on the projects’ Github Repository. Please include thorough information on the bug to allow for optimal troubleshooting.
 
