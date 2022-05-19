@@ -6,6 +6,8 @@ nav_order: 3
 
 # Compile Instructions
 
+---
+
 This tab includes information on how to compile the projects and use them as executable programs. As not every project is using the same programming language, separate instructions will be listed below on how to compile and run each individual code. 
 
 As a student I am still learning and exploring these concepts, so any feedbacks or recomendations are welcome and can be submitted under the Ziggurat Systems Github Repository.
