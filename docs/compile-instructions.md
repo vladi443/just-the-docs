@@ -6,9 +6,9 @@ nav_order: 3
 
 # Compile Instructions
 
-This tab includes information on how to compile the projects and use them as executable programs. As not every project is using the same programming language, such as C++ or Java, separate instructions will be listed below on how to compile and run the code. 
+This tab includes information on how to compile the projects and use them as executable programs. As not every project is using the same programming language, separate instructions will be listed below on how to compile and run each individual code. 
 
-As a student I am still learning and exploring these concepts so any suggestions are welcomed. If you would like to submit a feedback on the instructions, descriptions, or a suggestion on making compiling easier, you can do it by submitting a pull request under the Ziggurat Github Repository.
+As a student I am still learning and exploring these concepts, so any feedbacks or recomendations are welcome and can be submitted under the Ziggurat Systems Github Repository.
 
 ## What is Compiling
 
