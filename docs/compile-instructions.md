@@ -14,7 +14,7 @@ As a student I am still learning and exploring these concepts, so any feedbacks 
 
 ## What is Compiling
 
-Compiling code takes the *Source Code* (human readable) and transforms it into *machine code* (computer executable). Compiling code is done through a program called a *Compiler*, which takes the human written source code and converts it into a new language (*machine language*) which is understood by the computer. Compiling code is necessary as *machine language* code is extremely difficult for people to understand, and therefore the compiler acts as a "translator" from *high level language* to the *machine langauge* that computers understand.
+Compiling code takes the *Source Code* (human readable) and transforms it into *Machine Code* (computer executable). Compiling code is done through a program called a *Compiler*, which takes the human written source code and converts it into a new language (*Machine Language*) which is understood by the computer. Compiling code is necessary as *Machine Language* code is extremely difficult for people to understand, and therefore the compiler acts as a "translator" from *High Level Language* to the *Machine Langauge* that computers understand.
 
 Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNTACTICALLY** correct. A compiler does not however check if your code is **LOGICALLY** correct.
 
