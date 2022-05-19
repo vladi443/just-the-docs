@@ -18,6 +18,6 @@ Compiling code takes the *Source Code* (human readable) and transforms it into *
 
 Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNTACTICALLY** correct. A compiler does not however check if your code is **LOGICALLY** correct.
 
-##### *Source: https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/compiling_C_programs.html*
+##### ***Source: https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/compiling_C_programs.html***
 
 ## Compile C++ code
