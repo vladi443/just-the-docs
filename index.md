@@ -18,7 +18,9 @@ Projects’ tab includes list of programs that are currently in development. Eac
 
 If you would like to contribute to any of the projects or submit a feedback/report a bug you can do so through the project's Github Repository. The *Contribute / Bug Report* tab includes more information on how to submit a pull request in Github.
 
-The projects uploaded here can be downloaded and used as executable programs. This allows for an easy use of the programs without worrying about compiling them first. If you would like to compile the programs for yourself, the source code of each project together with their assets can be found in the project's Github Repository. If you are not sure how to compile some of the code, you can find more information on how to do it in the *Compile Code* tab.
+The projects uploaded here can be downloaded and used as executable programs. This allows them to be used without having to compiling them. If you would like to compile the programs for yourself, the source code of each project together with their assets can be found in the project's Github Repository. If you are not sure how to compile some of the code, you can find more information on how to do it in the *Compile Code* tab. 
+
+None of the programs uploaded here collect, analyze or sent any data. They work and store any additional data (*ex Wordle Bot's dictionary list*) locally and do not require internet connection. You can review the source code of each project before downloading the code or the executable on the project's Github Repository.
 
 I aim to turn this site into a web portal that would link my projects and make them easy to share and use. If you want to contribute to any of the projects listed here please submit a pull request from the selected project’s Github Repository with the changes you have made. If you encounter any bugs or glitches from any of the projects, you can submit a bug report on the projects’ Github Repository. Please include thorough information on the bug to allow for optimal troubleshooting.
 
