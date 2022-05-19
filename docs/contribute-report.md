@@ -5,4 +5,7 @@ nav_order: 4
 ---
 # Contribute
 
-This tab includes information on how to use Github, review code and submit changes proposals. Any feedbacks or recommendations on how to contribute or share the code is welcomed and can be submitted on Ziggurat Systems Github Repository.
+Contributions, suggestions and bug reports are welcome! This tab includes information on how to view and submit changes proposals on Github.
+
+**PAGE IS UNDER DEVELOPMENT**
+Please refer to [Github Pull Request Manual](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for additional information on how pull requests work and how to submit one.
