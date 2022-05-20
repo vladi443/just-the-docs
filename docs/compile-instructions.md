@@ -27,6 +27,7 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
 1. Install a GNU C / C++ Compiler
    - First update your libraries by typing `$ sudo apt-get update`.
    - Then install a C / C++ Compiler by typing `$ sudo apt-get install build-essential manpages-dev`.
+      - *Note:* If you are using MacOS, a C / C++ Compiler might already be installed, so steps *1* and *2* can be skipped.
 2. Verify the installation was successfull
    - To verify the compiler was installed successfully, type `$ gcc --version`.
 3. Compile the C++ source code
@@ -37,4 +38,6 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
      - *Note:* `executable-file-name` can be anything you want. `source-code.cpp` should match the C++ source code's name as you have saved it.
 4. Run the compiled code
    - To run the code, make sure you are in the same folder as the program and type `$ ./executable-file-name`.
+
+### Windows
 
