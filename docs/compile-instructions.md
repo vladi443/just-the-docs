@@ -35,5 +35,6 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
    - In the folder, you can type `$ ls` to verify all of the files are located there.
    - To compile the C++ source code, type `$ gcc source-code.cpp -o executable-file-name`.
     - *Note:* `executable-file-name` can be anything you want. `source-code.cpp` should match the C++ source code's name as you have saved it.
-4. To run the code, make sure you are in the same folder as the program and type `$ ./executable-file-name`.
+4. Run the compiled code
+   - To run the code, make sure you are in the same folder as the program and type `$ ./executable-file-name`.
 
