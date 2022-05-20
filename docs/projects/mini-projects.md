@@ -7,7 +7,9 @@ parent: Projects
 
 # Mini Projects
 
-This tab is dedicated to any small projects I have worked on usually out of interest. The projects listed here can be edited, used and shared just like the other ones through their Github Repositories.
+This tab is dedicated to any small projects I have worked on usually out of interest. The projects listed here can be edited, used and shared just like the other ones through their Github Repositories. 
+
+*Note*: not all the projects listed here will have an executable download link. Most of the programs here will require manual compilation of the code, instructions for which can be found in the project's README file or under the *Compile Code* tab.
 
 ---
 
