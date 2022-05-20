@@ -20,3 +20,6 @@ Triangle fractal C++ algorithm follows the Chaos game principles by randomly sel
 ![Sierpinksi Triangle Simulator Sample Output Image](../../assets/images/triangle-fractal-sample-output.png)
 
 Triangle fractal is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
+
+[Sierpinski Triangle on Github](https://github.com/vladi443/triangle-fractal/tree/main){: .btn .btn-blue .mr-2}
+[Learn more about Sierpinski Triangle](https://mathigon.org/course/fractals/sierpinski){: .btn }
