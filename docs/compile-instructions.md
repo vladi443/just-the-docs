@@ -24,3 +24,6 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
 
 ### Linux / MacOS
 
+1. Install a GNU C / C++ Compiler
+   `$ sudo apt-get update`
+
