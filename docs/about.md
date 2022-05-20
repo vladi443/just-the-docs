@@ -8,6 +8,4 @@ nav_order: 5
 
 ---
 
-This page contains more information about myself and this website.
-
-**PAGE IS UNDER DEVELOPMENT**
+I am a high school student with a huge interest in Computer Science and Math. Originally from Europe, I have taken several computer classes there, including programming fundamentals in C++, HTML and JS programming, and several school based math classes. In the US I am currently taking higher level math classes and IB Computer Science, and am looking into continuing my education in the Computer Science field.
