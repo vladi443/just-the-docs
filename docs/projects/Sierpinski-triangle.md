@@ -7,7 +7,7 @@ parent: Projects
 
 # Sierpinski Triangle Simulator
 
-## *C++ Sierpinski Triangle Simulator*
+### *C++ Sierpinski Triangle Simulator*
 
 ---
 
