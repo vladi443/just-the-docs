@@ -20,3 +20,6 @@ Similarly to Wordle Dictionary, Primel Bot uses a 5-digit number to represent th
 Primel Bot has a BETA option that computes the best starting prime number, which is rated based on the most used digits in the list of prime numbers. Primel Bot also scores prime numbers based on the uniqueness of their digits, meaning 19237 would be rated slightly higher than 10007.
 
 Primel Bot is registered under the GNU GPLv3 software license and its source-code is available on github.
+
+[Primel Bot on Github](https://github.com/vladi443/primes){: .btn .btn-blue .mr-2}
+[Official Primel Game](https://converged.yt/primel){: .btn }
