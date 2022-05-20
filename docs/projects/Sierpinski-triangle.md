@@ -22,5 +22,5 @@ This project follows the Chaos game principles by randomly selecting two points 
 Sierpinski Triangle Simulator is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
 
 [Sierpinski Triangle Download](https://github.com/vladi443/triangle-fractal/tree/main){: .btn .btn-blue .mr-2}
-[Sierpinski Triangle on Github](https://github.com/vladi443/triangle-fractal/tree/main){: .btn .btn-blue .mr-2}
+[Sierpinski Triangle on Github](https://github.com/vladi443/triangle-fractal/tree/main){: .btn .mr-2}
 [Learn more about Sierpinski Triangle](https://mathigon.org/course/fractals/sierpinski){: .btn }
