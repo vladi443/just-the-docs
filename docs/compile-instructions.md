@@ -25,5 +25,13 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
 ### Linux / MacOS
 
 1. Install a GNU C / C++ Compiler
-   `$ sudo apt-get update`
+   - First update your libraries by typing `$ sudo apt-get update`.
+   - Then install a C / C++ Compiler by typing `$ sudo apt-get install build-essential manpages-dev`.
+2. Verify the installation was successfull
+   - To verify the compiler was installed successfully, type `$ gcc --version`.
+3. Compile the C++ source code
+   - Download the source code and assets for the project you've selected from their Github Repository.
+   - Navigate to the folder where you have downloaded the files by typing `$ cd /path/to/file`.
+   - In the folder, you can type `$ ls` to verify all of the files are located there.
+   - To compile the C++ source code, type `$ gcc source-code.cpp -o executable-file-name`.
 
