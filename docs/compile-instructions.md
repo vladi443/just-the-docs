@@ -42,7 +42,7 @@ Compilers have additional jobs such as ensuring your code is **TYPE** and **SYNT
 ### Windows
 
 1. Install a GNU C / C++ Compiler
-   - Download (MSYS2)[https://www.msys2.org/] from their official website.
+   - Download [MSYS2](https://www.msys2.org/) from their official website.
       - *Note:* These instructions use MSYS2 to compile C++ code.
       - *Note:* Other compilers will work as well, but beware setup steps may differ.
    - Once downloaded, run the *MSYS2* installer and input desired installation folder.
