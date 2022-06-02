@@ -14,7 +14,7 @@ permalink: /
 
 Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab in the navigation menu, and more information about myself and this site can be found in the *About* tab.
 
-Projects’ tab includes list of programs that are currently in development. Each projects’ page includes information about the program, its algorithm and use instructions. Some of the projects uploaded here have been inspired by outside programs / games, such as the *Wordle Bot*. A link to those outside sources is located on the bottom of the project's page. For additional information refer to the projects’ README file located in its Github Repository, link for which is located on the bottom of its page as well.
+More information about the different projects together with download links are located in the Projects' tab.
 
 If you would like to contribute to any of the projects or submit a feedback / report a bug you can do so through the project's Github Repository. The *Contribute / Bug Report* tab includes more information on how to submit a pull request on Github.
 
