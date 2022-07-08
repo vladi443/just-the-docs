@@ -12,16 +12,14 @@ permalink: /
 
 ---
 
-Ziggurat Systems is a website I developed to share projects I am working on. You can discover the different programs I have or am currently developing and contribute, share, or use any of them for free. Projects’ list can be found in the *Projects* tab in the navigation menu, and more information about myself and this site can be found in the *About* tab.
-
-More information about the different projects together with download links are located in the Projects' tab.
+Ziggurat Systems is a website developed to share computer science projects I'm currently working on. All the programs uploaded here can be used, edited, and shared for free. List of current projects can be found in the *Projects* tab that contains project information, download link and the project's Github Repository link where its source code can be found.
 
 If you would like to contribute to any of the projects or submit a feedback / report a bug you can do so through the project's Github Repository. The *Contribute / Bug Report* tab includes more information on how to submit a pull request on Github.
 
-The projects uploaded here can be downloaded and used as executable programs. If you would like to compile the programs for yourself, the source-code and any required assets can be found in the project's Github Repository. Information on how to compile the different projects can be found in the *Compile Code* tab.
+The projects uploaded here can be downloaded and used as executable programs. If you would like to compile the programs yourself, the source-code and any required assets can be found in the project's Github Repository. Information on how to compile different projects can be found in the *Compile Code* tab.
 
-None of the programs uploaded here collect, use or sent any data. Every require asset is stored and used locally, allowing the programs to be ran offline at any point. You can review the source-code of any of the programs before downloading their executable files or source-code.
+None of the programs uploaded here collect, use or sent any data. Every required data is stored and used locally, allowing the programs to run offline. You can review the source-code of any of the programs before downloading their executable files or source-code.
 
-I aim to turn this site into a web portal that would link my projects, making them easy to use and share. If you want to contribute to any of the projects listed here please submit a pull request from the selected project’s Github Repository with the changes you have made. If you encounter any bugs or glitches from any of the projects, you can submit a bug report on the projects’ Github Repository. Please include thorough information on the bug to allow for optimal troubleshooting.
+I aim to turn this site into a web portal that would link my projects, making them easy to use and share. If you want to contribute to any of the projects listed here please submit a pull request from the selected project’s Github Repository with the changes you have made. If you encounter any bugs or glitches from any of the projects, you can submit a bug report on the projects’ Github Repository. Please include thorough information on the bug to allow for easy troubleshooting.
 
 Every project uploaded under the Ziggurat Systems Github Repository is licensed under GNU GPLv3, for which you can read more about in the projects’ README files.
